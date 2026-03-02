@@ -1,8 +1,8 @@
-#📄 Research AI Agent
+# Research AI Agent
 
 An AI-powered research assistant that can explore research topics, analyze scientific papers, generate new research content, produce LaTeX PDFs, and perform plagiarism checks, with optional methodology flowcharts. Designed for fields like physics, computer science, mathematics, and cryptography.
 
-##🔹 Features
+## Features
 
 Research Paper Discovery
 
@@ -34,7 +34,7 @@ Interactive Chat Interface
 
 Streamlit-based chat interface for conversational research guidance.
 
-##🔹 Tech Stack
+## Tech Stack
 
 Backend
 
@@ -64,7 +64,7 @@ Plagiarism detection (custom or via APIs)
 
 Environment variable management with python-dotenv
 
-##🔹 Installation
+## Installation
 
 Clone the repository
 
@@ -91,7 +91,7 @@ Set environment variables
 
 cp .env.example .env
 ### Add your Google API key in .env
-##🔹 Usage
+## Usage
 
 Start the Streamlit app
 
@@ -123,7 +123,7 @@ Include optional methodology flowcharts.
 
 Download the generated PDF directly from the interface.
 
-##🔹 Example Workflow
+## Example Workflow
 
 Enter a research topic (e.g., AI Theraphist).
 
@@ -142,7 +142,7 @@ Render the paper to a LaTeX PDF, optionally including flowcharts.
 Download the PDF for submission or further editing.
 
 
-##🔹 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -156,12 +156,12 @@ Submit a pull request
 
 Please follow PEP8 standards and document any new tools or features.
 
-##🔹 License
+## License
 
 MIT License © 2026
 See LICENSE
 
-##🔹 Future Improvements
+## Future Improvements
 
 Integrate IEEE Xplore and Springer for broader research access.
 
