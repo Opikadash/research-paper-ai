@@ -1,4 +1,4 @@
-# Research AI Agent
+# Research Paper AI Agent
 
 An AI-powered research assistant that can explore research topics, analyze scientific papers, generate new research content, produce LaTeX PDFs, and perform plagiarism checks, with optional methodology flowcharts. Designed for fields like physics, computer science, mathematics, and cryptography.
 
