@@ -1,0 +1,14 @@
+// Methodology Flowchart
+digraph {
+	Step1 [label="Literature review and identification of the quantum threat to current cryptography."]
+	Step2 [label="Analysis of current Post-Quantum Cryptography (PQC) candidates and their underlying mathematical problems."]
+	Step3 [label="Identification of key challenges in PQC deployment, including performance, standardization, and resource constraints."]
+	Step4 [label="Formulation of future research directions based on identified challenges and the need for a secure cryptographic transition."]
+	Step5 [label="Synthesis of information into a structured research paper with appropriate sections, mathematical context, and references."]
+	Step6 [label="Generation of a LaTeX PDF and subsequent plagiarism check."]
+	Step1 -> Step2
+	Step2 -> Step3
+	Step3 -> Step4
+	Step4 -> Step5
+	Step5 -> Step6
+}
